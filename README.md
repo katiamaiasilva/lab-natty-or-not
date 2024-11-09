@@ -20,16 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mulheres superando desafios na era das IAs
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Vídeo que explora o uso de diversas tecnologias de IAs generativas gratuitas para destacar a importância da participação das mulheres no aprendizado de novas tecnologias. O conteúdo aborda os desafios enfrentados por mulheres que buscam conhecimento e espaço no crescente mercado de trabalho que envolve essa área, equilibrando essas ambições com as responsabilidades significativas no cuidado com a casa, a família e os filhos. (Descrição gerada com o uso do ChatGPT)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Texto: ChatGPT
+Imagem:
+Áudio:
+Vídeo: 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente utilizei como base do meu projeto a minha própria realidade: sou mãe solo de dois bebês com menos de 3 anos, trabalho fora de casa, moro longe dos meus familiares, não tenho ajuda com funcionários em minha casa e minha rede de apoio se limita à escola e aos vizinhos. Sei o quanto é desafiador encontrar tempo com atenção em minha rotina para que eu possa efetivamente parar e estudar sobre algo novo, por esse motivo surgiu a ideia de apresentar esse projeto, utilizando tecnologias que aprendi durante o curso para expor um texto que co-criei utilizando o ChatGPT.
+Com base no tema desejado, pedi ao ChatGPT para organizar as ideias que apresentei no prompt em um texto de 20 linhas, que é o texto falado em todo o vídeo. Buscando permitir maior acesso à essa informação, pedi que o texto também fosse traduzido para inglês. 
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto

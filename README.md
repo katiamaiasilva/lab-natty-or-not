@@ -1,22 +1,3 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
@@ -27,30 +8,24 @@ Vídeo que explora o uso de diversas tecnologias de IAs generativas gratuitas pa
 
 ## 🤖 Tecnologias Utilizadas
 Texto: ChatGPT
-Imagem:
-Áudio:
-Vídeo: 
+Imagem: Leonardo AI
+Áudio: ElevenLabs
+Vídeo: I-ID
 
 ## 🧐 Processo de Criação
 Inicialmente utilizei como base do meu projeto a minha própria realidade: sou mãe solo de dois bebês com menos de 3 anos, trabalho fora de casa, moro longe dos meus familiares, não tenho ajuda com funcionários em minha casa e minha rede de apoio se limita à escola e aos vizinhos. Sei o quanto é desafiador encontrar tempo com atenção em minha rotina para que eu possa efetivamente parar e estudar sobre algo novo, por esse motivo surgiu a ideia de apresentar esse projeto, utilizando tecnologias que aprendi durante o curso para expor um texto que co-criei utilizando o ChatGPT.
-Com base no tema desejado, pedi ao ChatGPT para organizar as ideias que apresentei no prompt em um texto de 20 linhas, que é o texto falado em todo o vídeo. Buscando permitir maior acesso à essa informação, pedi que o texto também fosse traduzido para inglês. 
+Com base no tema desejado, pedi ao ChatGPT para organizar as ideias que apresentei no prompt em um texto de 20 linhas, que é o texto falado em todo o vídeo.
+O avatar foi gerado com Leonardo AI considerando minhas informações físicas (como cor da pele, dos olhos, dos cabelos) e dados de minha vida pessoal (mãe de dois filhos) e carreira (bancária).
+Para a transcrição text-to-speech do texto criado pelo ChatGPT, utilizei o ElevenLabs com voz disponível na plataforma.
+Finalmente, através do D-ID, transformei a foto gerada em avatar em um vídeo onde integrei com o áudio mencionado acima.
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Cada tecnologia apresentou um desempenho diferente, algumas melhores e outras que ainda considero que possam ser aprimoradas.
+Acredito que ficou muito bom para um primeiro projeto utilizando tantas tecnologias integradas.
+O ChatGPT é muito bom, não por menos é considerado uma sensação no mundo todo. Poder conversar com uma IA generativa de forma natural, obtendo excelentes resultados e também pedindo para melhorar alguns pontos nas próprias respostas oferecidas, é algo fascinante. O texto gerado ficou exatamente como imaginei.
+Ao usar o Leonardo AI precisei de um pouco mais de empenho, pois alguns comandos que eu inseria no prompt modificavam totalmente o resultado que eu esperava receber e precisei de algumas tentativas até conseguir chegar em algo que atingiu minhas expectativas.
+O uso do ElevenLabs é fácil, o banco de vozes é bem grande e foi possível escolher o tom da mensagem que quis passar, de uma forma mais neutra e leve, mas também prezando pela qualidade da voz.
+Por último, quanto ao vídeo, acho que ainda peca um pouco na correta movimentação da boca e naturalidade de movimentação do corpo. Creio que o resultado também se deve ao fato de usar apenas as tecnologias em versões gratuitas, onde não são oferecidos todos os recursos ou a qualidade deles é limitada.
+Tendo estudado a área de tecnologia há mais de 15 anos e ver o que atualmente existe no mercado e somos capazes de criar sem muito ou nenhum conhecimento de código e programação é sensacional.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)

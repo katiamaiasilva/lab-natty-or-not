@@ -11,6 +11,7 @@ Texto: ChatGPT
 Imagem: Leonardo AI
 Áudio: ElevenLabs
 Vídeo: I-ID
+Compressor de vídeo: Clideo
 
 ## 🧐 Processo de Criação
 Inicialmente utilizei como base do meu projeto a minha própria realidade: sou mãe solo de dois bebês com menos de 3 anos, trabalho fora de casa, moro longe dos meus familiares, não tenho ajuda com funcionários em minha casa e minha rede de apoio se limita à escola e aos vizinhos. Sei o quanto é desafiador encontrar tempo com atenção em minha rotina para que eu possa efetivamente parar e estudar sobre algo novo, por esse motivo surgiu a ideia de apresentar esse projeto, utilizando tecnologias que aprendi durante o curso para expor um texto que co-criei utilizando o ChatGPT.
@@ -21,6 +22,11 @@ Finalmente, através do D-ID, transformei a foto gerada em avatar em um vídeo o
 
 
 ## 🚀 Resultados
+
+
+https://github.com/user-attachments/assets/72042e45-8fd7-452e-ac75-5b6f90a7d2d7
+
+
 Cada tecnologia apresentou um desempenho diferente, algumas melhores e outras que ainda considero que possam ser aprimoradas.
 Acredito que ficou muito bom para um primeiro projeto utilizando tantas tecnologias integradas.
 O ChatGPT é muito bom, não por menos é considerado uma sensação no mundo todo. Poder conversar com uma IA generativa de forma natural, obtendo excelentes resultados e também pedindo para melhorar alguns pontos nas próprias respostas oferecidas, é algo fascinante. O texto gerado ficou exatamente como imaginei.
